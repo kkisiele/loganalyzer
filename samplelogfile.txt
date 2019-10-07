@@ -1,0 +1,6 @@
+{"id":"111", "state":"STARTED", "type":"SECURITY_LOG", "host":"12345", "timestamp":1491378595212}
+{"id":"222", "state":"STARTED", "timestamp":1491378595213}
+{"id":"333", "state":"FINISHED", "timestamp":1491378595218}
+{"id":"111", "state":"FINISHED", "type":"SECURITY_LOG", "host":"12345", "timestamp":1491378595217}
+{"id":"333", "state":"STARTED", "timestamp":1491378595210}
+{"id":"222", "state":"FINISHED", "timestamp":1491378595216}
